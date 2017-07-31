@@ -10,7 +10,7 @@ How to use this script
 
 ***Note: Please have a .png file saved in the location of your choice on your machine before running this script.  Also, take note of the .png files location and the name of the .png file.
 
-1. Navigate to the downloaded zip file in your terminal and unzip the ChromebookKioskApp-master.zip file using "$ unzip ChromebookKioskApp-master.zip" press enter.  (**This step not needed if repository was cloned from github.**)
+1. Navigate to the downloaded zip file in your terminal and unzip the ChromebookKioskApp-master.zip file using "unzip ChromebookKioskApp-master.zip" press enter.  (**This step not needed if repository was cloned from github.**)
 
 2. Change the Shell Script to executable if needed using "chmod +x ChromebookKiosk.sh" press enter.
 
